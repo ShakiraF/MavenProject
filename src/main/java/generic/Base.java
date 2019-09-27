@@ -33,6 +33,7 @@ public class Base implements AutoConstant {
 	public static void post_method()
 	{
 		System.out.println("");
+		System.out.println("");
 		driver.close();
 	}
 	
